@@ -8,7 +8,7 @@ autor: Sandro Castillo
 Versión= 1.2'''
 
 def replace_password(root_dir, new_password):
-    logging.basicConfig(filename='log.txt', level=logging.INFO, format='%(asctime)s - %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
+    logging.basicConfig(filename='log_replace_pass.txt', level=logging.INFO, format='%(asctime)s - %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
     logger = logging.getLogger()
     logger.info("__Inicio del Cambio__")
 
@@ -44,14 +44,14 @@ def replace_password(root_dir, new_password):
                         log_message=f'PARA EL EMAIL_HOST : {mailHost}, NO APLICA , no se realizaron cambios\n'
                         logger.info(log_message)
                         break                                       
-            
+                        
+            if mailjet:
                 for x in range(len(lines)):
-                    if mailjet:
-                        if lines[x].startswith('EMAIL_HOST_PASSWORD='):
-                            previous_value = lines[x].strip().split('=')[1]  # Obtener el valor anterior
-                            lines[x] = f'EMAIL_HOST_PASSWORD={new_password}\n'
-                            modified = True
-                            break
+                    if lines[x].startswith('EMAIL_HOST_PASSWORD='):
+                        previous_value = lines[x].strip().split('=')[1]  # Obtener el valor anterior
+                        lines[x] = f'EMAIL_HOST_PASSWORD={new_password}\n'
+                        modified = True
+                        break
         
             if modified:
                 if previous_value == new_password:
@@ -62,7 +62,8 @@ def replace_password(root_dir, new_password):
                         file.writelines(lines)
                     print(f"Se ha reemplazado el valor de EMAIL_HOST_PASSWORD en el archivo {env_file}.")
                     # Guardar en el log el valor anterior, la ruta y la hora
-                    log_message = f"Valor anterior: {previous_value}, Nuevo valor: {new_password}\n"
+
+                    log_message = f"Se ha reemplazado el valor de EMAIL_HOST_PASSWORD en el archivo {env_file}.\n Valor anterior: {previous_value}, Nuevo valor: {new_password}\n"
                     logger.info(log_message)
             else:
                 print("No se encontró la variable EMAIL_HOST_PASSWORD en el archivo.")

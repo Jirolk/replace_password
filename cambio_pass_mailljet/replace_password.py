@@ -46,15 +46,19 @@ def replace_password(root_dir, new_password):
                         logger.info(log_message)
                         break                                       
             
+                
+            if mailjet:
                 for x in range(len(lines)):
-                    if mailjet:
-                        if lines[x].startswith('EMAIL_HOST_PASSWORD='):
-                            previous_value = lines[x].strip().split('=')[1]  # Obtener el valor anterior
-                            lines[x] = f'EMAIL_HOST_PASSWORD={new_password}\n'
-                            modified = True
-                            break
+                    if lines[x].startswith('EMAIL_HOST_PASSWORD='):
+                        previous_value = lines[x].strip().split('=')[1]  # Obtener el valor anterior
+                        print("no entinedo. ", previous_value)
+                        lines[x] = f'EMAIL_HOST_PASSWORD={new_password}\n'
+                        modified = True
+                        break
         
             if modified:
+                print(previous_value)
+                print(new_password)
                 if previous_value == new_password:
                     print("No se Realizó cambios")
                     logger.info("No se Realizarón cambios.\n")
@@ -82,7 +86,9 @@ def replace_password(root_dir, new_password):
     logger.info(msj)
 
 
-root_directory = "/opt/projects"
+#root_directory = "/opt/projects"
+root_directory = "D:\+-Documentos-CDS---\Factury\Python\envdeprueba" #para windows
+
 new_password = "96f23c14c3063ea0876afc1e8e1c2f39"
 
 replace_password(root_directory, new_password)
