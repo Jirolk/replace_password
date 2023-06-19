@@ -1,0 +1,79 @@
+06/16/2023 11:19:01 PM - __Inicio del Cambio__
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\.env
+06/16/2023 11:19:03 PM - No se Realizarón cambios.
+
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\api_backend\.env
+06/16/2023 11:19:03 PM - No se Realizarón cambios.
+
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\api_backend\api_backend\api_backend\.env
+06/16/2023 11:19:03 PM - No se Realizarón cambios.
+
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\BackupBaseServer\.env
+06/16/2023 11:19:03 PM - No se encontró la variable EMAIL_HOST_PASSWORD en el archivo.
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\BaseBase\.env
+06/16/2023 11:19:03 PM - No se Realizarón cambios.
+
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\BaseBase\api_backend\api_backend\.env
+06/16/2023 11:19:03 PM - No se Realizarón cambios.
+
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\envdeprueba\.env
+06/16/2023 11:19:03 PM - No se Realizarón cambios.
+
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\envdeprueba\1\.env
+06/16/2023 11:19:03 PM - No se Realizarón cambios.
+
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\envdeprueba\2\.env
+06/16/2023 11:19:03 PM - No se Realizarón cambios.
+
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\envdeprueba\3\.env
+06/16/2023 11:19:03 PM - No se Realizarón cambios.
+
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\envdeprueba\4\.env
+06/16/2023 11:19:03 PM - PARA EL EMAIL_HOST : smtp.sendgrid.net, NO APLICA , no se realizaron cambios
+
+06/16/2023 11:19:03 PM - No se encontró la variable EMAIL_HOST_PASSWORD en el archivo.
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\envdeprueba\metro\.env
+06/16/2023 11:19:03 PM - No se Realizarón cambios.
+
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\Nueva carpeta\.env
+06/16/2023 11:19:03 PM - No se encontró la variable EMAIL_HOST_PASSWORD en el archivo.
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\OtraVesion\BackupBaseServer\.env
+06/16/2023 11:19:03 PM - No se encontró la variable EMAIL_HOST_PASSWORD en el archivo.
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\ProcesosServidor\.env
+06/16/2023 11:19:03 PM - No se encontró la variable EMAIL_HOST_PASSWORD en el archivo.
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\prueba de conexion\.env
+06/16/2023 11:19:03 PM - No se encontró la variable EMAIL_HOST_PASSWORD en el archivo.
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\Vistas\.env
+06/16/2023 11:19:03 PM - No se encontró la variable EMAIL_HOST_PASSWORD en el archivo.
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\vista_aex\.env
+06/16/2023 11:19:03 PM - No se encontró la variable EMAIL_HOST_PASSWORD en el archivo.
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\Vista_Fortaleza\.env
+06/16/2023 11:19:03 PM - No se encontró la variable EMAIL_HOST_PASSWORD en el archivo.
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\vista_medicar\.env
+06/16/2023 11:19:03 PM - No se encontró la variable EMAIL_HOST_PASSWORD en el archivo.
+06/16/2023 11:19:03 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\vista_pinedo\.env
+06/16/2023 11:19:03 PM - No se encontró la variable EMAIL_HOST_PASSWORD en el archivo.
+06/16/2023 11:19:03 PM - ===Total de archivos: 21 ========================
+
+06/16/2023 11:19:52 PM - __Inicio del Cambio__
+06/16/2023 11:19:52 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\envdeprueba\.env
+06/16/2023 11:19:52 PM - No se Realizarón cambios.
+
+06/16/2023 11:19:52 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\envdeprueba\1\.env
+06/16/2023 11:19:52 PM - No se Realizarón cambios.
+
+06/16/2023 11:19:52 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\envdeprueba\2\.env
+06/16/2023 11:19:52 PM - No se Realizarón cambios.
+
+06/16/2023 11:19:52 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\envdeprueba\3\.env
+06/16/2023 11:19:52 PM - No se Realizarón cambios.
+
+06/16/2023 11:19:52 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\envdeprueba\4\.env
+06/16/2023 11:19:52 PM - PARA EL EMAIL_HOST : smtp.sendgrid.net, NO APLICA , no se realizaron cambios
+
+06/16/2023 11:19:52 PM - No se encontró la variable EMAIL_HOST_PASSWORD en el archivo.
+06/16/2023 11:19:52 PM - Ruta: D:\+-Documentos-CDS---\Factury\Python\envdeprueba\metro\.env
+06/16/2023 11:19:52 PM - No se Realizarón cambios.
+
+06/16/2023 11:19:52 PM - ===Total de archivos: 6 ========================
+

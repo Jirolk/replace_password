@@ -1,0 +1,19 @@
+06/16/2023 11:28:00 PM - __Inicio del Cambio__
+06/16/2023 11:28:02 PM - Ruta: /opt/projects/metropolis/metropolis/.env
+06/16/2023 11:28:02 PM - PARA EL EMAIL_HOST : smtp.sendgrid.net, NO APLICA , no se realizaron cambios
+
+06/16/2023 11:28:02 PM - No se encontró la variable EMAIL_HOST_PASSWORD en el archivo.
+06/16/2023 11:28:02 PM - Ruta: /opt/projects/api_backend/api_backend/api_backend/.env
+06/16/2023 11:28:02 PM - No se Realizarón cambios.
+
+06/16/2023 11:28:02 PM - Ruta: /opt/projects/produccion/elsena/api_backend/api_backend/.env
+06/16/2023 11:28:02 PM - No se Realizarón cambios.
+
+06/16/2023 11:28:02 PM - Ruta: /opt/projects/produccion/metropolis/metropolis/.env
+06/16/2023 11:28:02 PM - PARA EL EMAIL_HOST : smtp.sendgrid.net, NO APLICA , no se realizaron cambios
+
+06/16/2023 11:28:02 PM - No se encontró la variable EMAIL_HOST_PASSWORD en el archivo.
+06/16/2023 11:28:02 PM - Ruta: /opt/projects/produccion/respaldo_bd/BackupBaseServer/.env
+06/16/2023 11:28:02 PM - No se encontró la variable EMAIL_HOST_PASSWORD en el archivo.
+06/16/2023 11:28:02 PM - ===Total de archivos: 5 ========================
+
