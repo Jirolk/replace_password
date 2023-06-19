@@ -1,7 +1,7 @@
 #!/bin/bash
 
 log_file="log_busqueda.txt"
-directory="/mnt/d/+-Documentos-CDS---/Factury/Python/"
+directory="" # path del directorio padre donde estan los arhivos .env
 
 # Buscar archivos .env en el directorio especificado
 count=$(find "$directory" -iname "*.env" | wc -l)
